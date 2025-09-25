@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Python Club",
+    "bulletin": "Weekly Python meetups and code jams.",
+    "contact": "9876543210",
+    "views": 0
+  },
+  {
+    "id": 2,
+    "name": "Advanced Python Group",
+    "bulletin": "Deep dive into Python libraries and frameworks.",
+    "contact": "9998887777",
+    "views": 0
+  },
+  {
+    "id": 3,
+    "name": "Data Science with Python",
+    "bulletin": "Projects and workshops on ML, AI & Python.",
+    "contact": "9123456780",
+    "views": 0
+  },
+  {
+    "id": 4,
+    "name": "AI & Machine Learning Club",
+    "bulletin": "Hackathons and research papers in AI/ML.",
+    "contact": "9555551111",
+    "views": 0
+  },
+  {
+    "id": 5,
+    "name": "Robotics Club",
+    "bulletin": "Robotics workshop this weekend!",
+    "contact": "9000000000",
+    "views": 0
+  },
+  {
+    "id": 6,
+    "name": "Web Development Club",
+    "bulletin": "ReactJS bootcamp starting soon.",
+    "contact": "9555555555",
+    "views": 0
+  },
+  {
+    "id": 7,
+    "name": "Cyber Security Club",
+    "bulletin": "CTFs and ethical hacking events every month.",
+    "contact": "9333333333",
+    "views": 0
+  },
+  {
+    "id": 8,
+    "name": "Cloud & DevOps Club",
+    "bulletin": "AWS and Docker training sessions.",
+    "contact": "9444444444",
+    "views": 0
+  },
+  {
+    "id": 9,
+    "name": "Entrepreneurship Club",
+    "bulletin": "Startup weekends, pitching and mentorship.",
+    "contact": "9222222222",
+    "views": 0
+  },
+  {
+    "id": 10,
+    "name": "Design & UI Club",
+    "bulletin": "Figma, UI/UX design sessions.",
+    "contact": "9111111111",
+    "views": 0
+  }
+]
